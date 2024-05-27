@@ -10,7 +10,7 @@ import java.util.List;
 import com.copy.user.Read;
 import com.copy.user.User;
 
-//import com.copy.user.User;
+//impo com.copy.user.User;
 //@WebService(endpointInterface = "read")
 public class MyDbConn implements Read {
 
