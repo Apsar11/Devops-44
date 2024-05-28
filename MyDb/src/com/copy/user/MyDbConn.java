@@ -132,11 +132,6 @@ public class MyDbConn implements Read {
 
 	}
 
-	/*
-	 * public void close() { try { if (con != null) con.close(); } catch
-	 * (SQLException e) { System.out.println("Conection closed");
-	 * 
-	 * }
-	 */
+	
 
 }
