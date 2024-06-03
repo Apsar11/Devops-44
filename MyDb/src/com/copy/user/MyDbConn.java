@@ -11,7 +11,7 @@ import com.copy.user.Read;
 import com.copy.user.User;
 
 
-//@WebService(endpointInterface = "read")
+//@WebService(endpointInterface = "read") //not required now 
 public class MyDbConn implements Read {
 
 	public String create(int id, String name, int age) throws ClassNotFoundException {
