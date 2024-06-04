@@ -111,9 +111,9 @@ public class MyDbConn implements Read {
 				users.add(user);
 				System.out.println(read);
 
-				System.out.println("Id:" + id);
-				System.out.println("name:" + name);
-				System.out.println("age:" + age); // User u =new User(id, name, age);
+				//System.out.println("Id:" + id);
+				//System.out.println("name:" + name);
+				//System.out.println("age:" + age); // User u =new User(id, name, age);
 				/*
 				 * rs.getInt("id"); rs.getString("name"); rs.getInt("age"); users.add(u);
 				 */
